@@ -1,3 +1,5 @@
+# Realizado por 
+# Juliana Castillo
 def cifrado_encriptacion():
     mensaje = input("ESCRIBE EL TEXTO: ").replace(" ", "").upper()
     clave = input("INGRESA LA PALABRA: ").upper()
